@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B9DF5F15299881D600BD5D5A /* Xcode Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Xcode Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9DF5F15299881D600BD5D5A /* swift-card-deal-game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swift-card-deal-game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9DF5F18299881D600BD5D5A /* Xcode_DemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xcode_DemoApp.swift; sourceTree = "<group>"; };
 		B9DF5F1A299881D600BD5D5A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B9DF5F1C299881D700BD5D5A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		B9DF5F16299881D600BD5D5A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B9DF5F15299881D600BD5D5A /* Xcode Demo.app */,
+				B9DF5F15299881D600BD5D5A /* swift-card-deal-game.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B9DF5F14299881D600BD5D5A /* Xcode Demo */ = {
+		B9DF5F14299881D600BD5D5A /* swift-card-deal-game */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B9DF5F23299881D700BD5D5A /* Build configuration list for PBXNativeTarget "Xcode Demo" */;
+			buildConfigurationList = B9DF5F23299881D700BD5D5A /* Build configuration list for PBXNativeTarget "swift-card-deal-game" */;
 			buildPhases = (
 				B9DF5F11299881D600BD5D5A /* Sources */,
 				B9DF5F12299881D600BD5D5A /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "Xcode Demo";
+			name = "swift-card-deal-game";
 			productName = "Xcode Demo";
-			productReference = B9DF5F15299881D600BD5D5A /* Xcode Demo.app */;
+			productReference = B9DF5F15299881D600BD5D5A /* swift-card-deal-game.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B9DF5F10299881D600BD5D5A /* Build configuration list for PBXProject "Xcode Demo" */;
+			buildConfigurationList = B9DF5F10299881D600BD5D5A /* Build configuration list for PBXProject "swift-card-deal-game" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B9DF5F14299881D600BD5D5A /* Xcode Demo */,
+				B9DF5F14299881D600BD5D5A /* swift-card-deal-game */,
 			);
 		};
 /* End PBXProject section */
@@ -318,7 +318,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B9DF5F10299881D600BD5D5A /* Build configuration list for PBXProject "Xcode Demo" */ = {
+		B9DF5F10299881D600BD5D5A /* Build configuration list for PBXProject "swift-card-deal-game" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B9DF5F21299881D700BD5D5A /* Debug */,
@@ -327,7 +327,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B9DF5F23299881D700BD5D5A /* Build configuration list for PBXNativeTarget "Xcode Demo" */ = {
+		B9DF5F23299881D700BD5D5A /* Build configuration list for PBXNativeTarget "swift-card-deal-game" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B9DF5F24299881D700BD5D5A /* Debug */,
